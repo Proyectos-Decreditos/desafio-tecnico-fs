@@ -16,7 +16,7 @@ docker compose up -d
 Luego ingresamos a la instancia.
 
 ```bash
-docker exec -it debitos bash
+docker exec -it decreditos bash
 ```
 
 Instalamos el proyecto.

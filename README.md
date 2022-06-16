@@ -5,9 +5,6 @@
 Para este desafío es necesario que tengas instalado Docker en tu computadora y que estés al menos familiarizado cómo funciona.
 
 Primero empezamos _buildeando_ nuestra imagen.
-Para este desafío es necesario que tengas instalado Docker en tu computadora y que estés al menos familiarizado cómo funciona.
-
-Primero empezamos _buildeando_ nuestra imagen.
 
 ```bash
 docker compose up -d
